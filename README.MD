@@ -2,8 +2,9 @@
 
 ### INSTALLATION
 1 Dependency -- [Guizero](https://lawsie.github.io/guizero/)
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+/x presentation images/guizeroinstall.png
+
+
 
 
 WHY THIS PROJECT
