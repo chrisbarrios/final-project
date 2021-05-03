@@ -28,12 +28,12 @@ temporary list <br/>
 ![templist](/images/templist.png)<br/>
 tom note list <br/>
 ![notelist](/images/notelist.png)<br/>
-desc <br/>
-![](/images/.png)<br/>
-desc <br/>
-![](/images/.png)<br/>
-desc <br/>
-![](/images/.png)<br/>
+multiplier <br/>
+![resmult](/images/resmult.png)<br/>
+hertz output <br/>
+![hertzoutput](/images/hertzoutput.png)<br/>
+note name <br/>
+![notename](/images/notename.png)<br/>
 desc <br/>
 ![](/images/.png)<br/>
 
