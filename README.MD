@@ -25,13 +25,13 @@ resonance multipliers<br/>
 Diagram
 ![diagram](/images/diagram.png)<br/>
 ***
-notes <br/>
+Note variables are assigned a value in Hz: <br/>
 ![notes](/images/notes.png)<br/>
 ***
-key notes <br/>
+Keys are defined as lists of possible note variables within the realistic possible range: <br/>
 ![keynotes](/images/keynotes.png)<br/>
 ***
-tom notes <br/>
+Tom notes are defined similarly as lists of note variables: <br/>
 ![tomnotes](/images/tomnotes.png)<br/>
 ***
 keycombo <br/>
