@@ -18,9 +18,13 @@ Run the program by opening and running drumtune.py in an IDE or in a terminal wi
 ## HOW DOES IT WORK
 Diagram
 ![diagram](/images/diagram.png)<br/>
+keycombo
 ![keycombo](/images/keycombo.png)<br/>
+key notes
 ![keynotes](/images/keynotes.png)<br/>
+temporary list
 ![templist](/images/templist.png)<br/>
+tom note list 
 ![notelist](/images/notelist.png)<br/>
 ![](/images/.png)<br/>
 ![](/images/.png)<br/>
