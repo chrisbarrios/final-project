@@ -28,11 +28,14 @@ Diagram
 notes <br/>
 ![notes](/images/notes.png)<br/>
 ***
-keycombo <br/>
-![keycombo](/images/keycombo.png)<br/>
-***
 key notes <br/>
 ![keynotes](/images/keynotes.png)<br/>
+***
+tom notes <br/>
+![tomnotes](/images/tomnotes.png)<br/>
+***
+keycombo <br/>
+![keycombo](/images/keycombo.png)<br/>
 ***
 temporary list <br/>
 ![templist](/images/templist.png)<br/>
@@ -51,9 +54,6 @@ note name <br/>
 ***
 display note name <br/>
 ![pew](/images/pew.png)<br/>
-***
-desc <br/>
-![](/images/.png)<br/>
 ***
 desc <br/>
 ![](/images/.png)<br/>
