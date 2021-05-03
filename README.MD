@@ -41,6 +41,7 @@ The next part of the function compares the song key list with each tom note list
 ![templist](/images/templist.png)
 ![templistex](/images/templistex.png)<br/>
 <br/>
+[SOURCE](https://www.quora.com/How-can-I-do-a-comparison-of-two-lists-in-Python-with-each-value)
 [SOURCE](https://www.openbookproject.net/books/bpp4awd/ch04.html)
 ***
 Variables that correspond to the target tom note values are created from the note list: <br/><br/>
@@ -55,4 +56,6 @@ Each tom's top and bottom output value is the product of the target tom note var
 To get the note name output to be the actual note name and not the Hz value, I had to use a short function that compares the target note value with the values of a dictionary and outputs the key for the corresponding dictionary value: <br/><br/>
 ![notename](/images/notename.png)<br/>
 ![pew](/images/pew.png)<br/>
+<br/>
+[SOURCE](https://www.geeksforgeeks.org/python-get-key-from-value-in-dictionary/)
 ***
