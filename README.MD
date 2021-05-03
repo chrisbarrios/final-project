@@ -17,13 +17,13 @@ Run the program by opening and running drumtune.py in an IDE or in a terminal wi
 
 ## HOW DOES IT WORK
 Diagram
-![diagram](/images/diagram.png)
-![keycombo](/images/keycombo.png)
-![keynotes](/images/keynotes.png)
-![templist](/images/templist.png)
-![notelist](/images/notelist.png)
-![](/images/.png)
-![](/images/.png)
+![diagram](/images/diagram.png)<br/>
+![keycombo](/images/keycombo.png)<br/>
+![keynotes](/images/keynotes.png)<br/>
+![templist](/images/templist.png)<br/>
+![notelist](/images/notelist.png)<br/>
+![](/images/.png)<br/>
+![](/images/.png)<br/>
 - PHYSICAL FORM
 - SOFTWARE DESCRIPTION
 
