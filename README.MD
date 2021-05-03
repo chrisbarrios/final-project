@@ -34,6 +34,10 @@ hertz output <br/>
 ![hertzoutput](/images/hertzoutput.png)<br/>
 note name <br/>
 ![notename](/images/notename.png)<br/>
+display note name <br/>
+![pew](/images/pew.png)<br/>
+desc <br/>
+![](/images/.png)<br/>
 desc <br/>
 ![](/images/.png)<br/>
 
