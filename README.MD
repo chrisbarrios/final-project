@@ -6,12 +6,17 @@ Dependencies -- [Guizero](https://lawsie.github.io/guizero/)
 ![guizeroinstall](/images/guizeroinstall.png)
 
 Run the program by opening and running drumtune.py in an IDE or in a terminal window by typing 'python3 ' and dragging the file.
+***
 
 ## DRUM TUNING OVERVIEW
 - Why tune the drums?
   - For the player, for the instrument, for the song.
-![tomnotes](/images/tomsizenotes.png)
-![restable](/images/restable.png)
+<br/>
+tom note examples<br/>
+![tomnotes](/images/tomsizenotes.png)<br/>
+resonance multipliers<br/>
+![restable](/images/restable.png)<br/>
+***
 
 
 
