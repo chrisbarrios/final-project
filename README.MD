@@ -15,7 +15,13 @@ Run the program by opening and running drumtune.py in an IDE or in a terminal wi
 
 
 ## HOW DOES IT WORK
-- DIAGRAM
+![diagram](/images/diagram.png)
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 - PHYSICAL FORM
 - SOFTWARE DESCRIPTION
 
