@@ -59,3 +59,9 @@ To get the note name output to be the actual note name and not the Hz value, I h
 <br/>
 [SOURCE](https://www.geeksforgeeks.org/python-get-key-from-value-in-dictionary/)
 ***
+## FUTURE IMPLEMENTATION
+* Better GUI
+* More tom sizes
+* More note outputs per tom
+* More tom note research
+* Audio analysis for note recognition
