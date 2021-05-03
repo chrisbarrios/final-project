@@ -18,14 +18,15 @@ Run the program by opening and running drumtune.py in an IDE or in a terminal wi
 ## HOW DOES IT WORK
 Diagram
 ![diagram](/images/diagram.png)<br/>
-keycombo
+keycombo <br/>
 ![keycombo](/images/keycombo.png)<br/>
-key notes
+key notes <br/>
 ![keynotes](/images/keynotes.png)<br/>
-temporary list
+temporary list <br/>
 ![templist](/images/templist.png)<br/>
-tom note list 
+tom note list <br/>
 ![notelist](/images/notelist.png)<br/>
+desc <br/>
 ![](/images/.png)<br/>
 ![](/images/.png)<br/>
 - PHYSICAL FORM
