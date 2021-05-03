@@ -34,37 +34,23 @@ Keys are defined as lists of possible note variables within the realistic possib
 Tom notes are defined similarly as lists of note variables: <br/>
 ![tomnotes](/images/tomnotes.png)<br/>
 ***
-keycombo <br/>
+The first part of the function chooses the key note list based on the value of the key combo:  <br/>
 ![keycombo](/images/keycombo.png)<br/>
 ***
-temporary list <br/>
+The next part of the function compares the song key list with each tom note list to find common members and transfers the first occurrence to another list for later: <br/>
 ![templist](/images/templist.png)
 ![templistex](/images/templistex.png)<br/>
 ***
-tom note list <br/>
+Variables that correspond to the target tom note values are created from the note list: <br/>
 ![notelist](/images/notelist.png)<br/>
 ***
-multiplier <br/>
+The Resonance combo defines the top and bottom head multiplier variables: <br/>
 ![resmult](/images/resmult.png)<br/>
 ***
-hertz output <br/>
+Each tom's top and bottom output value is the product of the target tom note variable and the top and bottom multipliers:  <br/>
 ![hertzoutput](/images/hertzoutput.png)<br/>
 ***
-note name <br/>
+To get the note name output to be the actual note name and not the Hz value, I had to use a short function that compares the target note value with the values of a dictionary and outputs the key for the corresponding dictionary value: <br/>
 ![notename](/images/notename.png)<br/>
-***
-display note name <br/>
 ![pew](/images/pew.png)<br/>
 ***
-desc <br/>
-![](/images/.png)<br/>
-***
-
-WHAT WORKS
-
-WHAT DOESNT WORK
-
-FUTURE IMPLEMENTATION
-- ADDITIONAL FEATURES
-- COMPOSITION
-- PERFORMANCE
