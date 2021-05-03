@@ -13,8 +13,10 @@ Run the program by opening and running drumtune.py in an IDE or in a terminal wi
 ### Why tune the drums?
 For the player, for the instrument, for the song.
 <br/>
+<br/>
 tom note examples<br/>
 ![tomnotes](/images/tomsizenotes.png)<br/>
+<br/>
 resonance multipliers<br/>
 ![restable](/images/restable.png)<br/>
 ***
