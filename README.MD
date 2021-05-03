@@ -14,15 +14,15 @@ Run the program by opening and running drumtune.py in an IDE or in a terminal wi
 For the player, for the instrument, for the song.
 <br/>
 <br/>
-tom note examples<br/>
+Tom note examples:<br/><br/>
 ![tomnotes](/images/tomsizenotes.png)<br/>
 <br/>
-resonance multipliers<br/>
+Resonance multipliers: <br/><br/>
 ![restable](/images/restable.png)<br/>
 ***
 
 ## HOW DOES IT WORK
-Diagram<br/><br/>
+
 ![diagram](/images/diagram.png)<br/>
 ***
 Note variables are assigned a value in Hz: <br/><br/>
