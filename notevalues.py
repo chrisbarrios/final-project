@@ -22,28 +22,6 @@ FS3 = 185.00
 G3 = 196.00
 GS3 = 207.65
 
-notes =  [C2,
-          CS2,
-          D2,
-          DS2,
-          E2,
-          F2,
-          FS2,
-          G2,
-          GS2,
-          A2,
-          AS2,
-          B2,
-          C3,
-          CS3,
-          D3,
-          DS3,
-          E3,
-          F3,
-          FS3,
-          G3,
-          GS3]
-
 CMajor = [C2,
           E2,
           G2,
@@ -122,8 +100,6 @@ BbMajor = [D2,
 tom8 = [DS3, E3, F3, FS3, G3, GS3]
 tom10 = [B2, C3, CS3, D3, DS3, E3]
 tom12 = [F2, FS2, G2, GS2, A2, AS2, B2, C3]
-#tom13 = [F2, FS2, G2, GS2, A2]
-#tom14 = [E2, F2, FS2, G2, GS2]
 tom16 = [C2, CS2, D2, DS2, E2]
 
 
