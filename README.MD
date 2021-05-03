@@ -41,7 +41,7 @@ The next part of the function compares the song key list with each tom note list
 ![templist](/images/templist.png)
 ![templistex](/images/templistex.png)<br/>
 <br/>
-[SOURCE](https://www.quora.com/How-can-I-do-a-comparison-of-two-lists-in-Python-with-each-value)
+[SOURCE](https://www.quora.com/How-can-I-do-a-comparison-of-two-lists-in-Python-with-each-value)<br/>
 [SOURCE](https://www.openbookproject.net/books/bpp4awd/ch04.html)
 ***
 Variables that correspond to the target tom note values are created from the note list: <br/><br/>
