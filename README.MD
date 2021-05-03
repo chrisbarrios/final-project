@@ -16,14 +16,14 @@ Run the program by opening and running drumtune.py in an IDE or in a terminal wi
 
 
 ## HOW DOES IT WORK
-_Diagram_
+Diagram
 ![diagram](/images/diagram.png)
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+![keycombo](/images/keycombo.png)
+![keynotes](/images/keynotes.png)
+![templist](/images/templist.png)
+![notelist](/images/notelist.png)
+![](/images/.png)
+![](/images/.png)
 - PHYSICAL FORM
 - SOFTWARE DESCRIPTION
 
