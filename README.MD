@@ -1,11 +1,12 @@
 # DRUM TUNING CALCULATOR
 
 ### INSTALLATION
-1 Dependency -- [Guizero](https://lawsie.github.io/guizero/)
+```
+Dependencies -- [Guizero](https://lawsie.github.io/guizero/)
 ![guizeroinstall](/images/guizeroinstall.png)
 
-
-
+Run the program by opening and running drumtune.py in an IDE or in terminal window by typing 'python3 ' and dragging the file.
+```
 
 WHY THIS PROJECT
 - MOTIVATION
