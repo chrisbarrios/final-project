@@ -2,7 +2,7 @@
 
 ### INSTALLATION
 1 Dependency -- [Guizero](https://lawsie.github.io/guizero/)
-/x presentation images/guizeroinstall.png
+![guizeroinstall](/x presentation images/guizeroinstall.png)
 
 
 
