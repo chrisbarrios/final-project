@@ -37,9 +37,11 @@ Tom notes are defined similarly as lists of note variables: <br/><br/>
 The first part of the function chooses the key note list based on the value of the key combo:  <br/><br/>
 ![keycombo](/images/keycombo.png)<br/>
 ***
-The next part of the function compares the song key list with each tom note list to find common members and transfers the first occurrence to another list for later: <br/><br/>
+The next part of the function compares the song key list with each tom note list to find common members and transfers the first occurrence to a temp list for later: <br/><br/>
 ![templist](/images/templist.png)
 ![templistex](/images/templistex.png)<br/>
+<br/>
+[SOURCE](https://www.openbookproject.net/books/bpp4awd/ch04.html)
 ***
 Variables that correspond to the target tom note values are created from the note list: <br/><br/>
 ![notelist](/images/notelist.png)<br/>
