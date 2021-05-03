@@ -5,15 +5,15 @@
 Dependencies -- [Guizero](https://lawsie.github.io/guizero/)
 ![guizeroinstall](/images/guizeroinstall.png)
 
-Run the program by opening and running drumtune.py in an IDE or in terminal window by typing 'python3 ' and dragging the file.
+Run the program by opening and running drumtune.py in an IDE or in a terminal window by typing 'python3 ' and dragging the file.
+
+## DRUM TUNING OVERVIEW
+- Why tune the drums?
+  - For the player, for the instrument, for the song.
+![tomnotes](/images/tomsizenotes.png)
 
 
-WHY THIS PROJECT
-- MOTIVATION
-- PHILOSOPHY
-- INSPIRATIONS
-
-HOW DOES IT WORK
+## HOW DOES IT WORK
 - DIAGRAM
 - PHYSICAL FORM
 - SOFTWARE DESCRIPTION
