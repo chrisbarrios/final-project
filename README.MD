@@ -18,40 +18,40 @@ Run the program by opening and running drumtune.py in an IDE or in a terminal wi
 ## HOW DOES IT WORK
 Diagram
 ![diagram](/images/diagram.png)<br/>
----
+***
 notes <br/>
 ![notes](/images/notes.png)<br/>
----
+***
 keycombo <br/>
 ![keycombo](/images/keycombo.png)<br/>
----
+***
 key notes <br/>
 ![keynotes](/images/keynotes.png)<br/>
----
+***
 temporary list <br/>
 ![templist](/images/templist.png)<br/>
----
+***
 tom note list <br/>
 ![notelist](/images/notelist.png)<br/>
----
+***
 multiplier <br/>
 ![resmult](/images/resmult.png)<br/>
----
+***
 hertz output <br/>
 ![hertzoutput](/images/hertzoutput.png)<br/>
----
+***
 note name <br/>
 ![notename](/images/notename.png)<br/>
----
+***
 display note name <br/>
 ![pew](/images/pew.png)<br/>
----
+***
 desc <br/>
 ![](/images/.png)<br/>
----
+***
 desc <br/>
 ![](/images/.png)<br/>
----
+***
 
 WHAT WORKS
 
