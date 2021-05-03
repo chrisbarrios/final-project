@@ -14,7 +14,9 @@ Run the program by opening and running drumtune.py in an IDE or in a terminal wi
 ![restable](/images/restable.png)
 
 
+
 ## HOW DOES IT WORK
+_Diagram_
 ![diagram](/images/diagram.png)
 ![]()
 ![]()
